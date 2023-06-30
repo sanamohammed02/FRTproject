@@ -12,7 +12,7 @@ This is a web based application developed for a restaurant named PARADISE.
 **Demo Video** -  
 
 
-##Azure technologies used for project:
+##**Azure technologies used for project:**
 
  -Static web apps
  
